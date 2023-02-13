@@ -1,0 +1,1 @@
+/home/jakemurphy/Code/Rust_Projects/AoC/day2/competitive_elves/target/debug/competitive_elves: /home/jakemurphy/Code/Rust_Projects/AoC/day2/competitive_elves/src/input.txt /home/jakemurphy/Code/Rust_Projects/AoC/day2/competitive_elves/src/main.rs

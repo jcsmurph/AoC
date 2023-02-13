@@ -1,0 +1,12 @@
+/home/jakemurphy/Code/Rust_Projects/AoC/day2/competitive_elves/target/debug/deps/color_eyre-473b5e44a9f47a20.rmeta: /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs
+
+/home/jakemurphy/Code/Rust_Projects/AoC/day2/competitive_elves/target/debug/deps/color_eyre-473b5e44a9f47a20.d: /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs
+
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs:
