@@ -1,0 +1,1 @@
+/home/jakemurphy/Code/Rust_Projects/AoC/day1/forest_elves/target/debug/forest_elves: /home/jakemurphy/Code/Rust_Projects/AoC/day1/forest_elves/src/input.txt /home/jakemurphy/Code/Rust_Projects/AoC/day1/forest_elves/src/main.rs
